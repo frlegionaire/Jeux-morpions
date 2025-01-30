@@ -1,0 +1,18 @@
+
+.case {
+    border: solid black 1px;
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.sectionCase {
+    display: flex;
+    flex-wrap: wrap;
+    width: 320px;
+    margin: 20px auto;
+    gap: 0;
+}
